@@ -1,5 +1,5 @@
 {
-	"HaxxieS2": {
+	"Haxxie": {
         "player_type": 2,
         "hair": 34,
         "bottom": 3,
@@ -13,7 +13,7 @@
         "weapon_sub": 2,
         "weapon_special": 18
     },
-    "^Serach": {
+    "^Semeone": {
         "player_type": 2,
         "hair": 31,
         "bottom": 5,
@@ -41,7 +41,7 @@
         "weapon_sub": 0,
         "weapon_special": 0
     },
-    "HI": {
+    ".": {
         "player_type": 1,
         "hair": 13,
         "bottom": 8,
@@ -198,7 +198,7 @@
         "weapon_sub": 13,
         "weapon_special": 7
     },
-    "Uhhhhhhhhhhhhhhhhhhhhh ": {
+    "leeown ": {
         "player_type": 2,
         "hair": 34,
         "bottom": 3,
@@ -257,7 +257,7 @@
     },
     "ultra": {
         "player_type": 1,
-        "hair": 13,
+        "hair": 36,
         "bottom": 8,
         "skin_tone": 2,
         "eye_brows": 3,
@@ -326,7 +326,7 @@
         "weapon_special": 0
     },
     "Bims": {
-        "player_type": 2,
+        "player_type": 3,
         "hair": 30,
         "bottom": 3,
         "skin_tone": 1,
@@ -403,27 +403,57 @@
         "eye_brows": 1,
         "eye_color": 14,
         "gear_head": 2014,
-        "gear_cloth": 6033,
+        "gear_cloth": 25012,
         "gear_shoes": 1008,
         "weapon_main": 20900,
         "weapon_sub": 0,
         "weapon_special": 101
     },
+    "nvnprogram": {
+    "player_type": 0,
+    "hair": 33,
+    "bottom": 0,
+    "skin_tone": 3,
+    "eye_brows": 21,
+    "eye_color": 2,
+    "gear_head": 3009,
+    "gear_head_variation": 0,
+    "gear_cloth": 5057,
+    "gear_cloth_variation": 0,
+    "gear_shoes": 6012,
+    "gear_shoes_variation": 0,
+    "weapon_main": 212,
+    "color": {
+      "r": 0,
+      "g": 0.6120655998656237,
+      "b": 0.9157501292792527,
+      "a": 1
+    }
+  },
     "stroke99": {
-        "player_type": 1,
-        "hair": 11,
-        "bottom": 3,
-        "skin_tone": 2,
-        "eye_brows": 21,
-        "eye_color": 0,
-        "gear_head": 1007,
-        "gear_cloth": 55011,
-        "gear_shoes": 85012,
-        "weapon_main": 220,
-        "weapon_sub": 0,
-        "weapon_special": 0
-    },
-    "!         Dawn": {
+    "player_type": 1,
+    "hair": 13,
+    "bottom": 4,
+    "skin_tone": 1,
+    "eye_brows": 20,
+    "eye_color": 15,
+    "gear_head": 5012,
+    "gear_head_variation": 0,
+    "gear_cloth": 5012,
+    "gear_cloth_variation": 0,
+    "gear_shoes": 6004,
+    "gear_shoes_variation": 0,
+    "weapon_main": 220,
+    "weapon_sub": 2,
+    "weapon_special": 101,
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    }
+  },
+    "Dawn": {
     "player_type": 0,
     "hair": 500,
     "bottom": 1,
@@ -438,7 +468,7 @@
     "gear_shoes_variation": 0,
     "weapon_main": 20900
   },
-    "Dude123": {
+    "v:": {
     "player_type": 1,
     "hair": 7,
     "bottom": 0,
@@ -468,7 +498,7 @@
     "gear_shoes_variation": 0,
     "weapon_main": 200
   },
-    "Alex97": {
+    "Alex ": {
     "player_type": 0,
     "hair": 5,
     "bottom": 5,
@@ -676,6 +706,138 @@
     "gear_cloth_variation": 0,
     "gear_shoes": 2005,
     "gear_shoes_variation": 0,
-    "weapon_main": 51
+    "weapon_main": 51,
+    "weapon_special": 17
+  },
+    "Ambroise": {
+    "player_type": 4,
+    "hair": 600,
+    "bottom": 5,
+    "skin_tone": 1,
+    "eye_brows": 20,
+    "eye_color": 7,
+    "gear_head": 0,
+    "gear_head_variation": 0,
+    "gear_cloth": 10012,
+    "gear_cloth_variation": 0,
+    "gear_shoes": 27302,
+    "gear_shoes_variation": 0,
+    "weapon_main": 42,
+    "weapon_sub": 8
+  },
+    "Chicken Master": {
+    "player_type": 0,
+    "hair": 0,
+    "bottom": 5,
+    "skin_tone": 1,
+    "eye_brows": 20,
+    "eye_color": 9,
+    "gear_head": 1035,
+    "gear_head_variation": 0,
+    "gear_cloth": 5001,
+    "gear_cloth_variation": 0,
+    "gear_shoes": 2019,
+    "gear_shoes_variation": 0,
+    "weapon_main": 261,
+    "weapon_sub":5,
+    "weapon_special": 3
+  },
+    "JerrySM64": {
+    "player_type": 1,
+    "hair": 11,
+    "bottom": 5,
+    "skin_tone": 0,
+    "eye_brows": 20,
+    "eye_color": 13,
+    "gear_head": 0,
+    "gear_head_variation": 0,
+    "gear_cloth": 7007,
+    "gear_cloth_variation": 0,
+    "gear_shoes": 3013,
+    "gear_shoes_variation": 0,
+    "weapon_main": 92,
+    "weapon_sub": 2
+  },
+    "kirakira": {
+    "player_type": 0,
+    "hair": 5,
+    "bottom": 1,
+    "skin_tone": 2,
+    "eye_brows": 20,
+    "eye_color": 0,
+    "gear_head": 25008,
+    "gear_head_variation": 0,
+    "gear_cloth": 25000,
+    "gear_cloth_variation": 0,
+    "gear_shoes": 25003,
+    "gear_shoes_variation": 0,
+    "weapon_main": 40,
+    "weapon_sub": 1
+  },
+    "Jack doherty": {
+    "player_type": 1,
+    "hair": 7,
+    "bottom": 5,
+    "skin_tone": 1,
+    "eye_brows": 20,
+    "eye_color": 13,
+    "gear_head": 0,
+    "gear_head_variation": 0,
+    "gear_cloth": 1006,
+    "gear_cloth_variation": 0,
+    "gear_shoes": 2053,
+    "gear_shoes_variation": 0,
+    "weapon_main": 22
+  },
+    "Astro": {
+    "player_type": 2,
+    "hair": 34,
+    "bottom": 5,
+    "skin_tone": 1,
+    "eye_brows": 21,
+    "eye_color": 12,
+    "gear_head": 0,
+    "gear_head_variation": 0,
+    "gear_cloth": 5007,
+    "gear_cloth_variation": 0,
+    "gear_shoes": 25021,
+    "gear_shoes_variation": 0,
+    "weapon_main": 47
+  },
+    "skaalop": {
+    "player_type": 0,
+    "hair": 5,
+    "bottom": 2,
+    "skin_tone": 3,
+    "eye_brows": 21,
+    "eye_color": 20,
+    "gear_head": 27109,
+    "gear_head_variation": 0,
+    "gear_cloth": 1062,
+    "gear_cloth_variation": 0,
+    "gear_shoes": 27306,
+    "gear_shoes_variation": 0,
+    "weapon_main": 21
+  },
+    "Rebel rune": {
+    "player_type": 2,
+    "hair": 34,
+    "bottom": 8,
+    "skin_tone": 2,
+    "eye_brows": 21,
+    "eye_color": 10,
+    "gear_head": 0,
+    "gear_head_variation": 0,
+    "gear_cloth": 10015,
+    "gear_cloth_variation": 1,
+    "gear_shoes": 23003,
+    "gear_shoes_variation": 0,
+    "weapon_main": 11,
+    "color": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    }
   }
 }
