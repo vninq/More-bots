@@ -13,7 +13,7 @@
         "weapon_sub": 2,
         "weapon_special": 18
     },
-    "^Semeone": {
+    "^Someone": {
         "player_type": 2,
         "hair": 31,
         "bottom": 5,
@@ -41,7 +41,7 @@
         "weapon_sub": 0,
         "weapon_special": 0
     },
-    ".": {
+    "nothing": {
         "player_type": 1,
         "hair": 13,
         "bottom": 8,
@@ -375,8 +375,8 @@
         "eye_brows": 8,
         "eye_color": 3,
         "gear_head": 5008,
-        "gear_cloth": 2062,
-        "gear_shoes": 1023,
+        "gear_cloth": 7001,
+        "gear_shoes": 4003,
         "weapon_main": 1010,
         "weapon_sub": 0,
         "weapon_special": 0
@@ -409,7 +409,7 @@
         "weapon_sub": 0,
         "weapon_special": 101
     },
-    "nvnprogram": {
+    "kAyOSs": {
     "player_type": 0,
     "hair": 33,
     "bottom": 0,
@@ -663,7 +663,7 @@
     "gear_shoes_variation": 0,
     "weapon_main": 82
   },
-  "AC2 Squiddy        ": {
+  "AC2 Squiddy": {
     "player_type": 2,
     "hair": 34,
     "bottom": 4,
@@ -725,7 +725,7 @@
     "weapon_main": 42,
     "weapon_sub": 8
   },
-    "Chicken Master": {
+    "ChickenMaster": {
     "player_type": 0,
     "hair": 0,
     "bottom": 5,
@@ -774,7 +774,7 @@
     "weapon_main": 40,
     "weapon_sub": 1
   },
-    "Jack doherty": {
+    "Jack": {
     "player_type": 1,
     "hair": 7,
     "bottom": 5,
@@ -804,21 +804,6 @@
     "gear_shoes_variation": 0,
     "weapon_main": 47
   },
-    "skaalop": {
-    "player_type": 0,
-    "hair": 5,
-    "bottom": 2,
-    "skin_tone": 3,
-    "eye_brows": 21,
-    "eye_color": 20,
-    "gear_head": 27109,
-    "gear_head_variation": 0,
-    "gear_cloth": 1062,
-    "gear_cloth_variation": 0,
-    "gear_shoes": 27306,
-    "gear_shoes_variation": 0,
-    "weapon_main": 21
-  },
     "Rebel rune": {
     "player_type": 2,
     "hair": 34,
@@ -839,5 +824,174 @@
       "b": 1,
       "a": 1
     }
+  },
+    "Octo": {
+    "player_type": 0,
+    "hair": 12,
+    "bottom": 0,
+    "skin_tone": 3,
+    "eye_brows": 21,
+    "eye_color": 14,
+    "gear_head": 3003,
+    "gear_head_variation": 0,
+    "gear_cloth": 7004,
+    "gear_cloth_variation": 0,
+    "gear_shoes": 25000,
+    "gear_shoes_variation": 0,
+    "weapon_main": 1,
+    "color": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    }
+  },
+    "skaalop": {
+    "player_type": 0,
+    "hair": 5,
+    "bottom": 4,
+    "skin_tone": 3,
+    "eye_brows": 20,
+    "eye_color": 20,
+    "gear_head": 6003,
+    "gear_head_variation": 0,
+    "gear_cloth": 7007,
+    "gear_cloth_variation": 0,
+    "gear_shoes": 2002,
+    "gear_shoes_variation": 0,
+    "weapon_main": 20,
+    "weapon_sub": 0,
+    "weapon_special": 0
+  },
+    "Riel": {
+    "player_type": 3,
+    "hair": 37,
+    "bottom": 0,
+    "skin_tone": 1,
+    "eye_brows": 21,
+    "eye_color": 19,
+    "gear_head": 6003,
+    "gear_head_variation": 0,
+    "gear_cloth": 2026,
+    "gear_cloth_variation": 0,
+    "gear_shoes": 6006,
+    "gear_shoes_variation": 0,
+    "weapon_main": 0
+  },
+    "notafed": {
+    "player_type": 3,
+    "hair": 36,
+    "bottom": 8,
+    "skin_tone": 5,
+    "eye_brows": 23,
+    "eye_color": 17,
+    "gear_head": 3003,
+    "gear_head_variation": 1,
+    "gear_cloth": 5006,
+    "gear_cloth_variation": 0,
+    "gear_shoes": 21001,
+    "gear_shoes_variation": 0,
+    "weapon_main": 30
+  },
+    "αbeeku": {
+    "player_type": 0,
+    "hair": 3,
+    "bottom": 3,
+    "skin_tone": 1,
+    "eye_brows": 20,
+    "eye_color": 5,
+    "gear_head": 25003,
+    "gear_head_variation": 0,
+    "gear_cloth": 25003,
+    "gear_cloth_variation": 0,
+    "gear_shoes": 25003,
+    "gear_shoes_variation": 0,
+    "weapon_main": 71
+  },
+    "Angry: B3P51": {
+    "player_type": 0,
+    "hair": 3,
+    "bottom": 1,
+    "skin_tone": 0,
+    "eye_brows": 20,
+    "eye_color": 17,
+    "gear_head": 25006,
+    "gear_head_variation": 0,
+    "gear_cloth": 10006,
+    "gear_cloth_variation": 0,
+    "gear_shoes": 27000,
+    "gear_shoes_variation": 0,
+    "weapon_main": 5012
+  },
+    "Bara Rider": {
+    "player_type": 1,
+    "hair": 500,
+    "bottom": 0,
+    "skin_tone": 7,
+    "eye_brows": 21,
+    "eye_color": 17,
+    "gear_head": 27109,
+    "gear_head_variation": 0,
+    "gear_cloth": 25015,
+    "gear_cloth_variation": 0,
+    "gear_shoes": 25003,
+    "gear_shoes_variation": 0,
+    "weapon_main": 1021
+  },
+    "Ewan": {
+    "player_type": 1,
+    "hair": 30,
+    "bottom": 0,
+    "skin_tone": 0,
+    "eye_brows": 21,
+    "eye_color": 0,
+    "gear_head": 1003,
+    "gear_cloth": 5001,
+    "gear_shoes": 27304,
+    "weapon_main": 70,
+    "weapon_sub": 1,
+    "weapon_special": 12
+  },
+    "nvnprogram": {
+    "player_type": 2,
+    "hair": 34,
+    "bottom": 0,
+    "skin_tone": 4,
+    "eye_brows": 20,
+    "eye_color": 0,
+    "gear_head": 4017,
+    "gear_cloth": 8025,
+    "gear_shoes": 2004,
+    "weapon_main": 20900
+  },
+    "VeronIKA": {
+    "player_type": 0,
+    "hair": 13,
+    "bottom": 2,
+    "skin_tone": 0,
+    "eye_brows": 20,
+    "eye_color": 13,
+    "gear_head": 3022,
+    "gear_head_variation": 0,
+    "gear_cloth": 7016,
+    "gear_cloth_variation": 0,
+    "gear_shoes": 2043,
+    "gear_shoes_variation": 0,
+    "weapon_main": 40
+  },
+    "Hirooooo": {
+    "player_type": 3,
+    "hair": 36,
+    "bottom": 6,
+    "skin_tone": 7,
+    "eye_brows": 20,
+    "eye_color": 4,
+    "gear_head": 5007,
+    "gear_head_variation": 0,
+    "gear_cloth": 8030,
+    "gear_cloth_variation": 0,
+    "gear_shoes": 3020,
+    "gear_shoes_variation": 0,
+    "weapon_main": 50
   }
 }
